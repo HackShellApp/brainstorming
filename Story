@@ -12,7 +12,7 @@ Cortex Industries - A data collection company, is building life improvement fram
 
 -Snowmen: We are going to try to get into Cortex Industries, you see they are an incredibly evil company and they needed to be stopped, or they will tear the world apart.
 
--Edman: How will we break in to them?
+-Melvin: How will we break in to them?
 
 -Snowmen: That's a very good question. We have reason to believe that one of out employees, Michael Groves, has been stealing information from us and giving it to Cortex Industries. We need you to access his computer and find how he is sending Cortex Industries the data.  
 
@@ -20,13 +20,13 @@ Cortex Industries - A data collection company, is building life improvement fram
 
 -(Examine table)  
 
--Edman: There is a computer and a sticky note with "PASSWORD1" written on it.
+-Melvin: There is a computer and a sticky note with "PASSWORD1" written on it.
 
 -Snowmen: That's what we're looking for, use it to log on to the computer.
 
 -(enter password)
 
--Edman: It worked, I'm in.
+-Melvin: It worked, I'm in.
 
 -Snowmen:Good, look for a file named (file name) and download it
 
@@ -34,7 +34,7 @@ Cortex Industries - A data collection company, is building life improvement fram
 
 -(download file)
 
--Edman: Okay, I've got.
+-Melvin: Okay, I've got.
 
 -Snowmen: Congratulations, you just successfully completed your first hack.
 
