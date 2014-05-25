@@ -14,15 +14,15 @@ Cortex Industries - A data collection company, is building life improvement fram
 
 -Edman: How will we break in to them?
 
--Snowmen: That's a very good question. We have reason to believe that one of out employees has been stealing information from us and giving it to Citrix Systems. We need you to access his computer and find how he is sending Citrix Systems the data.  
+-Snowmen: That's a very good question. We have reason to believe that one of out employees, Michael Groves, has been stealing information from us and giving it to Citrix Systems. We need you to access his computer and find how he is sending Citrix Systems the data.  
 
 -Snowmen: Look at this table, do you see any clues. ( show a picture of a table)
 
 -(Examine table)  
 
--Edman: There is a computer and a sticky note with (password) writen on it.
+-Edman: There is a computer and a sticky note with "PASSWORD1" writen on it.
 
--Snowmen: That sounds like it could be a password, use it to log on to the computer.
+-Snowmen: That's what we're looking for, use it to log on to the computer.
 
 -(enter password)
 
@@ -34,6 +34,8 @@ Cortex Industries - A data collection company, is building life improvement fram
 
 -(download file)
 
--Edman: Okay, I've got. What now?
+-Edman: Okay, I've got.
 
--
+-Snowmen: Congratulations, you just successfully completed your first hack.
+
+-(Level Complete)
