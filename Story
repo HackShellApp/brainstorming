@@ -10,17 +10,17 @@ Cortex Industries - A data collection company, is building life improvement fram
 
 -Edmen Snowmen shows up magically and says that he will be your manager, welcome and prepare for death and destruction, I mean benign fun 
 
--Snowmen: We are going to try to get into Citrix system, you see they are an incredibly evil company and they needed to be stopped, or they will tear the world apart.
+-Snowmen: We are going to try to get into Cortex Industries, you see they are an incredibly evil company and they needed to be stopped, or they will tear the world apart.
 
 -Edman: How will we break in to them?
 
--Snowmen: That's a very good question. We have reason to believe that one of out employees, Michael Groves, has been stealing information from us and giving it to Citrix Systems. We need you to access his computer and find how he is sending Citrix Systems the data.  
+-Snowmen: That's a very good question. We have reason to believe that one of out employees, Michael Groves, has been stealing information from us and giving it to Cortex Industries. We need you to access his computer and find how he is sending Cortex Industries the data.  
 
 -Snowmen: Look at this table, do you see any clues. ( show a picture of a table)
 
 -(Examine table)  
 
--Edman: There is a computer and a sticky note with "PASSWORD1" writen on it.
+-Edman: There is a computer and a sticky note with "PASSWORD1" written on it.
 
 -Snowmen: That's what we're looking for, use it to log on to the computer.
 
