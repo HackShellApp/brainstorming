@@ -12,17 +12,25 @@
 
 - (examine desk)
 
-- Edman: There's just a computer here.(computer is a laptop)
+- Edman: There's just a computer here.
 
 - Snowmen: The password wont always be on a sticky note next to the computer, You'll have to look a bit harder.
 
 - (examine the desk further)
 
-- Edman: There is a piece of tape with writing on it on the bottom of the computer.
+- Edman: There is a note in the desk drawer.
 
-- Snowmen: What's written on it?
+- Snowmen: What does is say?
 
-- Edman: (computer password)
+- Edman:(computer password)
+
+- Snowmen: Use that to access the computer
+
+- (access computer)
+
+- Edman: I'm in.
+
+- Snowmen: Good, now take a look at the file.
 
 - (access file)
 
