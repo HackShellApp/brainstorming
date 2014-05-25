@@ -12,9 +12,10 @@ Cortex Industries - A data collection company, is building life improvement fram
 
 -Snowmen: We are going to try to get into Citrix system, you see they are an incredibly evil company and they needed to be stopped, or they will tear the world apart.
 
+-Edman How will we break in to them?
+
+Snowmen That's a very good question... I'll walk you through it
+
+Look at this table, do you see any clues ( show a picture of a table)
 
 
-
-- Snowmen: Do you need an explantation of how to do your job?
-	- Yes began tutorial 
-	
